@@ -1,6 +1,6 @@
-# Text Classification with Bi-LSTM and Pre-trained Word Embeddings (2020)
+# Named Entity Recognition 2020
 
-This repository contains code and explanations for a text classification task using a bidirectional LSTM (Bi-LSTM) model with pre-trained word embeddings. The task involves categorizing input text data into predefined classes, making it applicable to various Natural Language Processing (NLP) applications like sentiment analysis, named entity recognition, and more.
+This project is a part of the NLP course. The task involves categorizing input text data into predefined classes for Named Entity Recognition (NER).
 
 ## Overview
 
