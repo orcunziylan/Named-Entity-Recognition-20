@@ -1,4 +1,4 @@
-# Named Entity Recognition 2020
+# Named Entity Recognition
 
 This project is a part of the NLP course. The task involves categorizing input text data into predefined classes for Named Entity Recognition (NER).
 
